@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author - Bhumika Bhatt
+Author - Bhumika Bhatt (Apna college)
